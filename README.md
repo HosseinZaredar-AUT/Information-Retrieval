@@ -10,6 +10,6 @@
 ### Sample Queries
 
 <p align="center">
-  <img height=60% width=60% src="query_1.png">
-  <img height=60% width=60% src="query_2.png">
+  <img height=60% width=70% src="query_1.png">
+  <img height=60% width=70% src="query_2.png">
 </p>
